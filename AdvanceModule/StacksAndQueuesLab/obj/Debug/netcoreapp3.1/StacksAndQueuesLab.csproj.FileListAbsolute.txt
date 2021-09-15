@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\obj\Debug\netcoreapp3.1\StacksAndQueuesLab.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\obj\Debug\netcoreapp3.1\StacksAndQueuesLab.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\obj\Debug\netcoreapp3.1\StacksAndQueuesLab.AssemblyInfo.cs
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\bin\Debug\netcoreapp3.1\StacksAndQueuesLab.exe
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\bin\Debug\netcoreapp3.1\StacksAndQueuesLab.deps.json
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\bin\Debug\netcoreapp3.1\StacksAndQueuesLab.runtimeconfig.json
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\bin\Debug\netcoreapp3.1\StacksAndQueuesLab.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\bin\Debug\netcoreapp3.1\StacksAndQueuesLab.dll
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\bin\Debug\netcoreapp3.1\StacksAndQueuesLab.pdb
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\obj\Debug\netcoreapp3.1\StacksAndQueuesLab.dll
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\obj\Debug\netcoreapp3.1\StacksAndQueuesLab.pdb
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\obj\Debug\netcoreapp3.1\StacksAndQueuesLab.genruntimeconfig.cache
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesLab\obj\Debug\netcoreapp3.1\StacksAndQueuesLab.csprojAssemblyReference.cache

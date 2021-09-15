@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\bin\Debug\netcoreapp3.1\StacksAndQueuesExercises.exe
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\bin\Debug\netcoreapp3.1\StacksAndQueuesExercises.deps.json
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\bin\Debug\netcoreapp3.1\StacksAndQueuesExercises.runtimeconfig.json
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\bin\Debug\netcoreapp3.1\StacksAndQueuesExercises.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\bin\Debug\netcoreapp3.1\StacksAndQueuesExercises.dll
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\bin\Debug\netcoreapp3.1\StacksAndQueuesExercises.pdb
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\obj\Debug\netcoreapp3.1\StacksAndQueuesExercises.csprojAssemblyReference.cache
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\obj\Debug\netcoreapp3.1\StacksAndQueuesExercises.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\obj\Debug\netcoreapp3.1\StacksAndQueuesExercises.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\obj\Debug\netcoreapp3.1\StacksAndQueuesExercises.AssemblyInfo.cs
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\obj\Debug\netcoreapp3.1\StacksAndQueuesExercises.dll
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\obj\Debug\netcoreapp3.1\StacksAndQueuesExercises.pdb
+D:\GIT\AdvanceModule\AdvanceModule\StacksAndQueuesExercises\obj\Debug\netcoreapp3.1\StacksAndQueuesExercises.genruntimeconfig.cache
