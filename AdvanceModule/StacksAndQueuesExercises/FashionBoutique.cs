@@ -7,7 +7,7 @@ namespace StacksAndQueuesExercises
 {
     class FashionBoutique
     {
-        static void Main()
+        static void FashionBo()
         {
             List<string> input = Console.ReadLine().Split(' ').ToList();
             Stack<int> stack = new Stack<int>();

@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\bin\Debug\netcoreapp3.1\MultidimensionArrays.exe
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\bin\Debug\netcoreapp3.1\MultidimensionArrays.deps.json
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\bin\Debug\netcoreapp3.1\MultidimensionArrays.runtimeconfig.json
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\bin\Debug\netcoreapp3.1\MultidimensionArrays.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\bin\Debug\netcoreapp3.1\MultidimensionArrays.dll
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\bin\Debug\netcoreapp3.1\MultidimensionArrays.pdb
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\obj\Debug\netcoreapp3.1\MultidimensionArrays.csprojAssemblyReference.cache
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\obj\Debug\netcoreapp3.1\MultidimensionArrays.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\obj\Debug\netcoreapp3.1\MultidimensionArrays.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\obj\Debug\netcoreapp3.1\MultidimensionArrays.AssemblyInfo.cs
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\obj\Debug\netcoreapp3.1\MultidimensionArrays.dll
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\obj\Debug\netcoreapp3.1\MultidimensionArrays.pdb
+D:\GIT\AdvanceModule\AdvanceModule\MultidimensionArrays\obj\Debug\netcoreapp3.1\MultidimensionArrays.genruntimeconfig.cache
