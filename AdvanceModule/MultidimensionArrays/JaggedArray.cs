@@ -21,7 +21,7 @@ namespace MultidimensionArrays
                 }
             }
 
-            for (int i = 0; i < array.Length; i+=2)
+            for (int i = 0; i < array.Length; i++)
             {
                 if(i == array.Length - 1)
                 {
@@ -40,17 +40,13 @@ namespace MultidimensionArrays
                 }
                 else if (array[i].Length != array[i + 1].Length)
                 {
-                    for (int j = 0; j < 2; j++)
+                    for (int j = 0; j < array[i].Length; j++)
                     {
-                        for (int k = 0; k < array[j].Length; k++)
-                        {
-                            array[j][k] /= 2;
-                        }
-                        if(j == 1)
-                        {
-                            break;
-                        }
-                        index++;
+                        array[i][j] /= 2;
+                    }
+                    for (int k = 0; k < array[i + 1].Length; k++)
+                    {
+                        array[i + 1][k] /= 2;
                     }
                 }
 
