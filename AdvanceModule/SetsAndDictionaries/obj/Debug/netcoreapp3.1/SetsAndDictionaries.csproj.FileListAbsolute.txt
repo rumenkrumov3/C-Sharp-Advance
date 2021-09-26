@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.exe
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.deps.json
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.json
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csprojAssemblyReference.cache
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfo.cs
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+D:\GIT\AdvanceModule\AdvanceModule\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.genruntimeconfig.cache

@@ -5,7 +5,7 @@ namespace MultidimensionArrays
 {
     class DiagonalDifference
     {
-        static void DiagonalDiff()
+        static void Main()
         {
             int size = int.Parse(Console.ReadLine());
             int[,] matrix = new int[size, size];

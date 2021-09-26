@@ -6,7 +6,7 @@ namespace MultidimensionArrays
 {
     class JaggedArray
     {
-        static void Main()
+        static void Jagged()
         {
             int input = int.Parse(Console.ReadLine());
             int[][] array = new int[input][];

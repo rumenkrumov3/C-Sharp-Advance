@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\bin\Debug\netcoreapp3.1\FileAndStreams.cs.exe
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\bin\Debug\netcoreapp3.1\FileAndStreams.cs.deps.json
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\bin\Debug\netcoreapp3.1\FileAndStreams.cs.runtimeconfig.json
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\bin\Debug\netcoreapp3.1\FileAndStreams.cs.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\bin\Debug\netcoreapp3.1\FileAndStreams.cs.dll
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\bin\Debug\netcoreapp3.1\FileAndStreams.cs.pdb
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\obj\Debug\netcoreapp3.1\FileAndStreams.cs.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\obj\Debug\netcoreapp3.1\FileAndStreams.cs.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\obj\Debug\netcoreapp3.1\FileAndStreams.cs.AssemblyInfo.cs
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\obj\Debug\netcoreapp3.1\FileAndStreams.cs.dll
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\obj\Debug\netcoreapp3.1\FileAndStreams.cs.pdb
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\obj\Debug\netcoreapp3.1\FileAndStreams.cs.genruntimeconfig.cache
+D:\GIT\AdvanceModule\AdvanceModule\FileAndStreams.cs\obj\Debug\netcoreapp3.1\FileAndStreams.cs.csprojAssemblyReference.cache

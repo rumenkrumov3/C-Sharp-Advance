@@ -9,9 +9,9 @@ namespace MultidimensionArrays
 {
     class MaximalSum
     {
-        static void MaxSum()
+        static void Main()
         {
-            int[] sizes = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int[] sizes = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
             int[,] matrix = new int[sizes[0], sizes[1]];
             int[,] variableMatrix = new int[3, 3];
             int sum = 0;
@@ -19,7 +19,7 @@ namespace MultidimensionArrays
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
 
-                int[] parameters = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+                int[] parameters = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
                     matrix[i, j] = parameters[j];
