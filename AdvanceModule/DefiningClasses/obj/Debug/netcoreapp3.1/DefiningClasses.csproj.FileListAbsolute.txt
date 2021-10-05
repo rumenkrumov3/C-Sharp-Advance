@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\GIT\AdvanceModule\AdvanceModule\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache

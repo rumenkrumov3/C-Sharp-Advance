@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultidimensionArrays", "Mul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsAndDictionaries", "SetsAndDictionaries\SetsAndDictionaries.csproj", "{17A330F3-EFCF-4161-8941-D7E8BBB9B7AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAndStreams.cs", "FileAndStreams.cs\FileAndStreams.cs.csproj", "{890B8463-E2DD-48E3-90BB-EC99B37237BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileAndStreams.cs", "FileAndStreams.cs\FileAndStreams.cs.csproj", "{890B8463-E2DD-48E3-90BB-EC99B37237BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{40ED2B2D-BBF6-461D-B2C7-0FCC891F2D76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{CC5FAD85-DB43-48D7-8251-725AD71BBEB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DefiningClassess", "DefiningClassess", "{ED63EC95-8D62-435A-A852-6A07295FD618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +45,20 @@ Global
 		{890B8463-E2DD-48E3-90BB-EC99B37237BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{890B8463-E2DD-48E3-90BB-EC99B37237BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{890B8463-E2DD-48E3-90BB-EC99B37237BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40ED2B2D-BBF6-461D-B2C7-0FCC891F2D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40ED2B2D-BBF6-461D-B2C7-0FCC891F2D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40ED2B2D-BBF6-461D-B2C7-0FCC891F2D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40ED2B2D-BBF6-461D-B2C7-0FCC891F2D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5FAD85-DB43-48D7-8251-725AD71BBEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5FAD85-DB43-48D7-8251-725AD71BBEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5FAD85-DB43-48D7-8251-725AD71BBEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5FAD85-DB43-48D7-8251-725AD71BBEB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC5FAD85-DB43-48D7-8251-725AD71BBEB6} = {ED63EC95-8D62-435A-A852-6A07295FD618}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B35AA5A4-C72C-45D1-903A-F95CCDFD434D}

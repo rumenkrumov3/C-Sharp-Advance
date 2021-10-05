@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.exe
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.deps.json
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.json
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.dll
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csprojAssemblyReference.cache
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfo.cs
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.dll
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+D:\GIT\AdvanceModule\AdvanceModule\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.genruntimeconfig.cache
