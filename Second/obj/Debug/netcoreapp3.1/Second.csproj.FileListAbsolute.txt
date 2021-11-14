@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\Second\bin\Debug\netcoreapp3.1\Second.exe
+D:\GIT\AdvanceModule\Second\bin\Debug\netcoreapp3.1\Second.deps.json
+D:\GIT\AdvanceModule\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.json
+D:\GIT\AdvanceModule\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\Second\bin\Debug\netcoreapp3.1\Second.dll
+D:\GIT\AdvanceModule\Second\bin\Debug\netcoreapp3.1\Second.pdb
+D:\GIT\AdvanceModule\Second\obj\Debug\netcoreapp3.1\Second.csprojAssemblyReference.cache
+D:\GIT\AdvanceModule\Second\obj\Debug\netcoreapp3.1\Second.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfo.cs
+D:\GIT\AdvanceModule\Second\obj\Debug\netcoreapp3.1\Second.dll
+D:\GIT\AdvanceModule\Second\obj\Debug\netcoreapp3.1\Second.pdb
+D:\GIT\AdvanceModule\Second\obj\Debug\netcoreapp3.1\Second.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\StartProgram\bin\Debug\netcoreapp3.1\StartProgram.exe
+D:\GIT\AdvanceModule\StartProgram\bin\Debug\netcoreapp3.1\StartProgram.deps.json
+D:\GIT\AdvanceModule\StartProgram\bin\Debug\netcoreapp3.1\StartProgram.runtimeconfig.json
+D:\GIT\AdvanceModule\StartProgram\bin\Debug\netcoreapp3.1\StartProgram.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\StartProgram\bin\Debug\netcoreapp3.1\StartProgram.dll
+D:\GIT\AdvanceModule\StartProgram\bin\Debug\netcoreapp3.1\StartProgram.pdb
+D:\GIT\AdvanceModule\StartProgram\obj\Debug\netcoreapp3.1\StartProgram.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\StartProgram\obj\Debug\netcoreapp3.1\StartProgram.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\StartProgram\obj\Debug\netcoreapp3.1\StartProgram.AssemblyInfo.cs
+D:\GIT\AdvanceModule\StartProgram\obj\Debug\netcoreapp3.1\StartProgram.dll
+D:\GIT\AdvanceModule\StartProgram\obj\Debug\netcoreapp3.1\StartProgram.pdb
+D:\GIT\AdvanceModule\StartProgram\obj\Debug\netcoreapp3.1\StartProgram.genruntimeconfig.cache
+D:\GIT\AdvanceModule\StartProgram\obj\Debug\netcoreapp3.1\StartProgram.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\GIT\AdvanceModule\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.exe
+D:\GIT\AdvanceModule\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.deps.json
+D:\GIT\AdvanceModule\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.runtimeconfig.json
+D:\GIT\AdvanceModule\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.runtimeconfig.dev.json
+D:\GIT\AdvanceModule\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.dll
+D:\GIT\AdvanceModule\FirstExercise\bin\Debug\netcoreapp3.1\FirstExercise.pdb
+D:\GIT\AdvanceModule\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.csprojAssemblyReference.cache
+D:\GIT\AdvanceModule\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.csproj.CoreCompileInputs.cache
+D:\GIT\AdvanceModule\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.AssemblyInfoInputs.cache
+D:\GIT\AdvanceModule\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.AssemblyInfo.cs
+D:\GIT\AdvanceModule\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.dll
+D:\GIT\AdvanceModule\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.pdb
+D:\GIT\AdvanceModule\FirstExercise\obj\Debug\netcoreapp3.1\FirstExercise.genruntimeconfig.cache
